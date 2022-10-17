@@ -1,2 +1,2 @@
 # Testing
-This is for testing purpose
+I am learning how to use github
